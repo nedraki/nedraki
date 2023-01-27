@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alber Dominguez
 
 Currently working as a Data Scientist, I have a background in Mechanical Engineering that in combination with programming skills opens up
-the opportunities to work, solving interesting challenges related to the 4.0 industry.
+the opportunities to work solving interesting challenges related to the 4.0 industry.
 
 - 📫 How to reach me: [@albermard](https://twitter.com/albermard)
 
