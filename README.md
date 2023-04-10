@@ -18,7 +18,13 @@ ________________________________________________________________________________
  
  - [Money printing and inflation](https://medium.com/@albermard/understanding-inflation-11ef4b6a1542)
 
+Photography:
+
+- [Just a hobby](https://www.behance.net/alberdominguez)
+
 <!---
 nedraki/nedraki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
