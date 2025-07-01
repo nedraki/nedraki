@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 Photography:
 
-- [Just a hobby](https://www.behance.net/alberdominguez)
+- [Just a hobby](https://osopics.pic-time.com/client)
 
 <!---
 nedraki/nedraki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
