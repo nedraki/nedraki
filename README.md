@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 Photography:
 
-- [Just a hobby](https://osopics.pic-time.com/client)
+- [PAAH: Photography as a hobby](https://osopics.pic-time.com/client)
 
 <!---
 nedraki/nedraki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
